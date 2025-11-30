@@ -1,5 +1,5 @@
 A modern and minimal weather application built with pure **HTML, CSS, and Vanilla JavaScript**.
----
+
 ✨ Features
 
 - Search weather by city name  
@@ -9,14 +9,14 @@ A modern and minimal weather application built with pure **HTML, CSS, and Vanill
 - Elegant glass-style UI  
 - Celsius / Fahrenheit toggle  
 - Saves last searched city and unit preference (localStorage)
----
+
 🛠️ Tech Stack
 
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)  
 - OpenWeatherMap API
----
+
 ⚙️ Setup
 
 1. Clone or download the repository  
